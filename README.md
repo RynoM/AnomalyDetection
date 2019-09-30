@@ -19,7 +19,7 @@ Example of the created anomaly detection solution on real data:
 ![alt text](https://github.com/RynoM/AnomalyDetection/blob/master/pictures/user%20anomalies.JPG)
 
 
-## Repository\
+## Repository
 This repository consists of 5 main elements:
 
 **1. analysis**\
