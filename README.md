@@ -10,7 +10,7 @@ a sequential ensemble is used where the multivariate detector is combined with u
 detectors to find the variable where the anomaly originated. A synthetic dataset is produced to
 compare results of different configurations as the real dataset is unlabeled.
 ### Keywords: 
-Anomaly detection, unsupervised learning, recurrent autoencoder, multivariate time series, web metrics
+*Anomaly detection, unsupervised learning, recurrent autoencoder, multivariate time series, web metrics*
 
 Example of the created anomaly detection solution on real data:
 
