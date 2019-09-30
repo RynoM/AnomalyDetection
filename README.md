@@ -21,14 +21,24 @@ Example of the created anomaly detection solution on real data:
 
 ## Repository
 This repository consists of 5 main elements;
+
 **1. analysis**
+
 Here all the notebooks for the initial EDA as well as the measurements of performance can be found.
+
 **2. data**
+
 This section contains all the data (both artificually generated and real) that was used for the project.
+
 **3. pictures**
+
 Containing a sample visual result of the algorithm performing on (part of) the real test set.
+
 **4. scripts**
+
 This folder contains the actual execution notebooks for the created solution and Twitters' package, as well as the data generation script.
+
 **5. Master thesis**
+
 In the main folder, the final version of the master thesis itself can be found in PDF format.
 
