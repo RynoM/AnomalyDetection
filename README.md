@@ -14,7 +14,7 @@ compare results of different configurations as the real dataset is unlabeled.
 
 
 ## Example
-Example of the created anomaly detection solution on real data:
+Example of the created anomaly detection solution on real data: (anomalous points drawn in red) 
 
 ![alt text](https://github.com/RynoM/AnomalyDetection/blob/master/pictures/user%20anomalies.JPG)
 
