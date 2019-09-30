@@ -20,16 +20,12 @@ Example of the created anomaly detection solution on real data:
 
 
 ## Repository
-This repository consists of 5 main elements;
-
-**1. analysis**
-
+This repository consists of 5 main elements;\
+**1. analysis**\
 Here all the notebooks for the initial EDA as well as the measurements of performance can be found.
 
-**2. data**
-
+**2. data**<br/>
 This section contains all the data (both artificually generated and real) that was used for the project.
-
 **3. pictures**
 
 Containing a sample visual result of the algorithm performing on (part of) the real test set.
